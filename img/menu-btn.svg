@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="612px" height="552px" viewBox="0 0 612 552" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="menu">
+            <g>
+                <path d="M581.4,490.199 L30.6,490.199 C13.709,490.199 0,503.908 0,520.799 C0,537.691 13.709,551.4 30.6,551.4 L581.4,551.4 C598.291,551.4 612,537.691 612,520.798 C612,503.908 598.291,490.199 581.4,490.199 Z M30.6,61.799 L581.4,61.799 C598.291,61.799 612,48.091 612,31.199 C612,14.307 598.291,0.599 581.4,0.599 L30.6,0.599 C13.709,0.6 0,14.308 0,31.2 C0,48.091 13.709,61.799 30.6,61.799 Z M581.4,245.399 L30.6,245.399 C13.709,245.399 0,259.108 0,276 C0,292.892 13.709,306.6 30.6,306.6 L581.4,306.6 C598.291,306.6 612,292.891 612,276 C612,259.109 598.291,245.399 581.4,245.399 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
